@@ -4,7 +4,7 @@ title: VFX
 permalink: /work/vfx/
 
 appleId: I_40JFauCFk
-wealthsimpleId: eFKbeXdH6t0
+wealthsimpleId: 866662456
 ---
 
 ### Apple | Share The Joy
@@ -18,7 +18,7 @@ Tools used: Houdini
 ---
 
 ### Wealthsimple Tax | Medusa - Dependants
-{% include youTubeVideo1080.html id=page.wealthsimpleId %}
+{% include vimeoVideo.html id=page.wealthsimpleId %}
 CGI VFX:
 - snake shading, lighting and soft-body FX
 
